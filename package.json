@@ -1,0 +1,11 @@
+{
+  "name": "many-to-many-example-objectionjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "knex": "^0.14.4",
+    "mysql2": "^1.5.3",
+    "objection": "^1.1.1"
+  }
+}
